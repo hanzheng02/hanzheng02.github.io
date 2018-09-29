@@ -99,6 +99,9 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "数据峰",
+        href: "https://zdfccdanfeng.github.io/"
+    },{
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
