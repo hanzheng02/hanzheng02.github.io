@@ -102,16 +102,7 @@ friends: [
         title: "数据峰",
         href: "https://zdfccdanfeng.github.io/"
     },{
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "百度",
+        href: "http://baidu.com"
     }
 ]
